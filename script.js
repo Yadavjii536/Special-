@@ -82,11 +82,12 @@ function burstConfetti() {
 
 // Typewriter message
 function typeMessage() {
-    const message = `Happy Birthday yaar! 🎉 Tu ek kamaal ki dost hai. Teri company mein time ka pata hi nahi chalta - bakchodi, hasi-mazaak, aur endless baatein! 😄
-
-Bhagwan kare tu humesha aise hi khush rahe, successful ho, aur life mein jo bhi chahiye sab mile. Aur haan, dosti aise hi bani rahe! ✨
-
-Enjoy your day to the fullest! 🎂`;
+    const message = `Happy Birthday! 🎉
+Aap sach mein ek bahut hi special aur achhi insaan hain. Aapki personality mein ek alag hi positivity hai jo har cheez ko aur bhi accha bana deti hai. Aapse baat karna aur aapke saath time spend karna hamesha accha lagta hai—pata hi nahi chalta kab waqt nikal jaata hai.
+Sach kahu toh aapki simplicity aur nature hi aapko sabse alag banati hai. Aap jaise hain, waise hi hamesha rahiye, kyunki wahi aapki sabse badi strength hai.
+Bhagwan kare aap hamesha khush rahen, life mein bahut aage badhen aur jo bhi aap chahen wo sab aapko mile. Aapki har ek wish poori ho aur aap hamesha aise hi muskurati rahen.
+Once again, Happy Birthday! 🎂✨
+Stay happy, stay blessed 😊💫`;
     
     const el = document.getElementById('typewriter');
     let i = 0;
